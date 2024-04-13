@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "prisma": {
+    "schema": "db/schema.prisma",
     "seed": "tsx prisma/seed.ts"
   },
   "devDependencies": {
